@@ -6,7 +6,7 @@ IOS app in which a button can be pressed to change string color, as well as a bu
 ### App Walk-though
 
 
-<img src="https://i.imgur.com/gmtqewF.gif" width=200><br>
+<img src="https://i.imgur.com/QVym8U5.gif" width=200><br>
 
 
 ### Required User Stories
